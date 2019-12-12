@@ -1,0 +1,1 @@
+# safelinkamp.js
